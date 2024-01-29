@@ -1,0 +1,2 @@
+SELECT dep_Codigo, dep_Descricao FROM Departamento
+ORDER BY 2

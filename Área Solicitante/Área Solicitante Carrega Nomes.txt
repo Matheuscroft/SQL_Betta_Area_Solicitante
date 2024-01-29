@@ -1,0 +1,3 @@
+SELECT dep_Codigo, dep_Descricao FROM Departamento
+WHERE dep_Codigo IN (129 /*PS*/, 314 /*TELECOM*/, 137 /*NET SEC*/, 138 /*DATA CENTER*/, 139 /*SERVICE DESK*/, 140 /*CLOUD CONTACT CENTER*/)
+ORDER BY 2
